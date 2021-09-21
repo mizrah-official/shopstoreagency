@@ -112,6 +112,8 @@ http://www.tooplate.com/view/2106-soft-landing
 
   .online-form {
     position: relative;
+    color: #ffffff;
+    font-size: 14px;
   }
 
   .online-form .form-control {
